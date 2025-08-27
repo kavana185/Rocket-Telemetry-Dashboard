@@ -46,14 +46,20 @@ It simulates rocket flight data, renders a 3D trajectory path, and provides live
 
 Rocket-Telemetry-Dashboard/
 │── index.html # Main dashboard UI
-│── style.css # Styling
-│── script.js # Main dashboard logic
-│── trajectory.js # 3D rocket + path rendering
-│── playback.js # Playback controls
-│── flight1.json # Sample flight data
-│── models/ # 3D rocket model (.obj, .mtl, textures)
-│── assets/ # Images, icons (optional)
 
+│── style.css # Styling
+
+│── script.js # Main dashboard logic
+
+│── trajectory.js # 3D rocket + path rendering
+
+│── playback.js # Playback controls
+
+│── flight1.json # Sample flight data
+
+│── models/ # 3D rocket model (.obj, .mtl, textures)
+
+│── assets/ # Images, icons (optional)
 
 ---
 ###  Clone the repository  
