@@ -55,31 +55,14 @@ Rocket-Telemetry-Dashboard/
 
 
 ---
-
-## 🚀 Getting Started  
-
-### 1️⃣ Clone the repository  
+###  Clone the repository  
 ```bash
 git clone https://github.com/kavana185/Rocket-Telemetry-Dashboard.git
 cd Rocket-Telemetry-Dashboard
-
-2️⃣ Run locally
-
-You’ll need a local server (because Three.js & model loading won’t work from file://).
-
+```
 Using Python:
-```
-# Python 3
-python -m http.server 8000
-```
-Then open 👉 http://localhost:8000
-3️⃣ Explore the Dashboard
-▶️ Play / ⏸️ Pause the rocket flight
-🖱️ Rotate & zoom the 3D scene
-📊 Watch telemetry data update in real time
 
 ##🛠️ Built With
-
 Three.js
  – 3D rendering
 
