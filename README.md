@@ -32,13 +32,13 @@ It simulates rocket flight data, renders a 3D trajectory path, and provides live
 
 
 - **Full Dashboard**  
-  ![Dashboard Overview](./assets/dashboard.png)  
+  ![Dashboard Overview](.public/assets/dashboard.png)  
 
 - **3D Rocket Trajectory**  
-  ![Trajectory View](./assets/trajectory.png)  
+  ![Trajectory View](.public/assets/trajectory.png)  
 
 - **Live Telemetry Charts**  
-  ![Charts](./assets/charts.png)  
+  ![Charts](.public/assets/charts.png)  
 
 ---
 
