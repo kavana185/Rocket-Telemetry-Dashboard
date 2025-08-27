@@ -1,0 +1,22 @@
+[
+  { "time": 0, "velocity": 0, "altitude": 0, "acceleration": 35, "temperature": 25, "pressure": 101300, "gps": [12.973, 77.596], "x": 0, "y": 0, "z": 0 },
+  { "time": 1, "velocity": 45, "altitude": 30, "acceleration": 32, "temperature": 25, "pressure": 101280, "gps": [12.973, 77.596], "x": 1, "y": 30, "z": 0 },
+  { "time": 2, "velocity": 90, "altitude": 70, "acceleration": 28, "temperature": 24.9, "pressure": 101250, "gps": [12.973, 77.596], "x": 2, "y": 70, "z": 3 },
+  { "time": 3, "velocity": 130, "altitude": 120, "acceleration": 25, "temperature": 24.8, "pressure": 101200, "gps": [12.973, 77.596], "x": 5, "y": 120, "z": 7 },
+  { "time": 4, "velocity": 160, "altitude": 170, "acceleration": 18, "temperature": 24.7, "pressure": 101150, "gps": [12.973, 77.596], "x": 10, "y": 170, "z": 12 },
+  { "time": 5, "velocity": 175, "altitude": 210, "acceleration": 12, "temperature": 24.6, "pressure": 101100, "gps": [12.973, 77.596], "x": 18, "y": 210, "z": 20 },
+  { "time": 6, "velocity": 165, "altitude": 240, "acceleration": 6, "temperature": 24.5, "pressure": 101050, "gps": [12.973, 77.596], "x": 30, "y": 240, "z": 28 },
+  { "time": 7, "velocity": 140, "altitude": 255, "acceleration": 0, "temperature": 24.4, "pressure": 101000, "gps": [12.973, 77.596], "x": 42, "y": 255, "z": 40 },
+  { "time": 8, "velocity": 100, "altitude": 250, "acceleration": -8, "temperature": 24.3, "pressure": 100950, "gps": [12.973, 77.596], "x": 55, "y": 250, "z": 55 },
+  { "time": 9, "velocity": 60, "altitude": 230, "acceleration": -15, "temperature": 24.2, "pressure": 100900, "gps": [12.973, 77.596], "x": 65, "y": 230, "z": 70 },
+  { "time": 10, "velocity": 20, "altitude": 200, "acceleration": -20, "temperature": 24.1, "pressure": 100950, "gps": [12.973, 77.596], "x": 75, "y": 200, "z": 90 },
+  { "time": 11, "velocity": -15, "altitude": 160, "acceleration": -22, "temperature": 24.0, "pressure": 101000, "gps": [12.973, 77.596], "x": 85, "y": 160, "z": 115 },
+  { "time": 12, "velocity": -40, "altitude": 120, "acceleration": -25, "temperature": 23.9, "pressure": 101050, "gps": [12.973, 77.596], "x": 95, "y": 120, "z": 140 },
+  { "time": 13, "velocity": -65, "altitude": 90, "acceleration": -22, "temperature": 23.8, "pressure": 101100, "gps": [12.973, 77.596], "x": 105, "y": 90, "z": 160 },
+  { "time": 14, "velocity": -80, "altitude": 70, "acceleration": -18, "temperature": 23.7, "pressure": 101150, "gps": [12.973, 77.596], "x": 110, "y": 70, "z": 180 },
+  { "time": 15, "velocity": -85, "altitude": 55, "acceleration": -12, "temperature": 23.6, "pressure": 101200, "gps": [12.973, 77.596], "x": 115, "y": 55, "z": 195 },
+  { "time": 16, "velocity": -75, "altitude": 40, "acceleration": -8, "temperature": 23.5, "pressure": 101250, "gps": [12.973, 77.596], "x": 118, "y": 40, "z": 205 },
+  { "time": 17, "velocity": -50, "altitude": 25, "acceleration": -5, "temperature": 23.4, "pressure": 101280, "gps": [12.973, 77.596], "x": 119, "y": 25, "z": 212 },
+  { "time": 18, "velocity": -25, "altitude": 15, "acceleration": -3, "temperature": 23.4, "pressure": 101290, "gps": [12.973, 77.596], "x": 120, "y": 15, "z": 218 },
+  { "time": 19, "velocity": 0, "altitude": 0, "acceleration": 0, "temperature": 23.4, "pressure": 101300, "gps": [12.973, 77.596], "x": 120, "y": 0, "z": 220 }
+]

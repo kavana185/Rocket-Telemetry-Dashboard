@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rocketry Analysis Dashboard</title>
+    <link rel="stylesheet" href="/styles/style.css" /> <!-- ✅ public/styles -->
+  </head>
+  <body>
+    <!-- 🛰️ Logo Top-Left -->
+    <header>
+      <img src="/assets/logo.png" alt="Rocketry Logo" class="logo" />
+      <h1>Rocket Flight Analysis Dashboard</h1>
+    </header>
+
+    <!-- 🧭 Main Layout -->
+    <main class="dashboard-layout">
+      <!-- 🔷 3D Trajectory Visual -->
+      <section class="trajectory-section">
+        <canvas id="trajectoryCanvas"></canvas>
+        <div class="playback-controls">
+          <button id="rewindBtn">⏪</button>
+          <button id="playPauseBtn">▶️</button>
+          <input type="range" id="timeSlider" min="0" max="100" value="0" />
+        </div>
+      </section>
+
+      <!-- 📊 Telemetry Dashboard -->
+      <section class="dashboard-section">
+        <div class="telemetry">
+          <div class="stat"><strong>Velocity:</strong> <span id="velocity">0 m/s</span></div>
+          <div class="stat"><strong>Altitude:</strong> <span id="altitude">0 m</span></div>
+          <div class="stat"><strong>Acceleration:</strong> <span id="acceleration">0 m/s²</span></div>
+          <div class="stat"><strong>Temperature:</strong> <span id="temperature">0 °C</span></div>
+          <div class="stat"><strong>Pressure:</strong> <span id="pressure">0 Pa</span></div>
+          <div class="stat"><strong>GPS:</strong> <span id="gps">0.000, 0.000</span></div>
+        </div>
+
+        <!-- 📈 Live Graphs -->
+        <div class="charts">
+          <canvas id="altitudeChart"></canvas>
+          <canvas id="velocityChart"></canvas>
+          <canvas id="accelerationChart"></canvas>
+        </div>
+      </section>
+    </main>
+
+    <!-- 🚀 Entry point -->
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
+  
