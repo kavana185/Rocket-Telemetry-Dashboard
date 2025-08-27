@@ -43,6 +43,7 @@ It simulates rocket flight data, renders a 3D trajectory path, and provides live
 ---
 
 ## 📂 Project Structure  
+
 Rocket-Telemetry-Dashboard/
 │── index.html # Main dashboard UI
 │── style.css # Styling
